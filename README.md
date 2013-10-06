@@ -9,6 +9,12 @@ Please note you are required to keep your API key out of the app...
 * Sell Price <- Not tested yet
 * Send BTC
 
+###Install
+```
+npm install nodecoinbase
+
+```
+
 ###Methods
 
 ```
