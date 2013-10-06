@@ -23,11 +23,11 @@ Name.sellPrice(amount);
 
 
 
-TODO: Provide OAuth2 support with refresh token.
-TODO: Export constructor
-TODO: Create exmaple of midddleware interacting with NPM
-TODO: Add all api calls CB offers.
-TODO: Test
+* TODO: Provide OAuth2 support with refresh token.
+* TODO: Export constructor
+* TODO: Create exmaple of midddleware interacting with NPM
+* TODO: Add all api calls CB offers.
+* TODO: Test
 
 
 Highly Alpha.
