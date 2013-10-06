@@ -1,4 +1,4 @@
-#Simple nodejs client for interacting with portions of the Coinbase API.
+#Nodejs Client for Interacting Coinbase API.
 
 Currently only supports API Key based access.
 Please note you are required to keep your API key out of the app... 
@@ -8,6 +8,18 @@ Please note you are required to keep your API key out of the app...
 * Buy Price 
 * Sell Price
 * Send BTC
+
+###Methods
+TODO: Export constructor
+```
+Name.balance();
+Name.buyPrice(amount);
+Name.sellPrice(amount);
+
+```
+
+
+
 
 TODO: Provide OAuth2 support with refresh token.
 
