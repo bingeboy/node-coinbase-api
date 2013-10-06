@@ -1,4 +1,4 @@
-#Nodejs Client for Interacting Coinbase API.
+#Nodejs Client for Interacting Coinbase API
 
 Currently only supports API Key based access.
 Please note you are required to keep your API key out of the app... 
