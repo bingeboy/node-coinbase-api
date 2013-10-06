@@ -3,7 +3,7 @@
       "description" : "NodeJS client library for coinbase",
       "keywords" : [],
       "version": "0.0.1",
-      "main": "ncb.js",
+      "main": "./lib/index.js",
       "dependencies": {
                       "hottap" : "",
                       "underscore" : ""
