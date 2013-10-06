@@ -10,7 +10,7 @@ Please note you are required to keep your API key out of the app...
 * Send BTC
 
 ###Methods
-TODO: Export constructor
+
 ```
 Name.balance();
 Name.buyPrice(amount);
@@ -24,8 +24,13 @@ Name.sellPrice(amount);
 
 
 TODO: Provide OAuth2 support with refresh token.
-
+TODO: Export constructor
+TODO: Create exmaple of midddleware interacting with NPM
+TODO: Add all api calls CB offers.
+TODO: Test
 
 
 Highly Alpha.
 Use at your own risk.
+
+Pull requests welcome!
