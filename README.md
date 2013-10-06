@@ -5,8 +5,8 @@ Please note you are required to keep your API key out of the app...
 
 #API Calls Supported
 * Balance
-* Buy Price 
-* Sell Price
+* Buy Price <- Not tested yet
+* Sell Price <- Not tested yet
 * Send BTC
 
 ###Methods
@@ -18,6 +18,8 @@ Name.sellPrice(amount);
 
 ```
 
+###Video
+(http://youtu.be/r7Z6m4IWs8w)
 
 
 
