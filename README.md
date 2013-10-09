@@ -21,7 +21,7 @@ npm install nodecoinbase
 Name.balance();
 Name.buyPrice(amount);
 Name.sellPrice(amount);
-
+Name.sendBtc(email, amount, note);
 ```
 
 ###Video
@@ -30,9 +30,7 @@ Name.sellPrice(amount);
 
 
 * TODO: Provide OAuth2 support with refresh token.
-* TODO: Export constructor
 * TODO: Create exmaple of midddleware interacting with NPM
-* TODO: Add all api calls CB offers.
 * TODO: Mocha Testing
 
 
