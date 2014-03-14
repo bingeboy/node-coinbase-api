@@ -38,3 +38,7 @@ Highly Alpha.
 Use at your own risk.
 
 Pull requests welcome!
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/bingeboy/node-coinbase-api/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
